@@ -12,4 +12,5 @@ A ban bot for moderators, to ban users who participate in particular subreddits.
 
   Enter only an integer after each "=" sign. **Do not add any extra space at the end, or in front, of the integer. Do not add a new line.**
   
-4. Run `python ban.py`.
+4. [Create a bot](https://www.reddit.com/prefs/apps/) and add your bot info to "info.txt". Simply follow the prompts. **Do not add spaces and a new line at the end**. If you don't know how to create a bot just Google it.
+5. Run `python ban.py`
