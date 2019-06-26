@@ -9,6 +9,5 @@ A ban bot for moderators, to ban users who participate in particular subreddits.
 * objects_scanned is how many posts/comments you want to scan in each person's post history (i.e how far back you want to go). The bot will scan from the newest post/comments.
 * post_limit is how many violations a user can have before he/she is banned. A violation is when a user post(or comment) in a banned subreddit.
 * comment_limit is similar to post_limit but for comments instead. 
-
-Enter only an integer after each "=" sign. **Do not add any extra space at the end, or in front, of the integer. Do not add a new line.**
+  Enter only an integer after each "=" sign. **Do not add any extra space at the end, or in front, of the integer. Do not add a new line.**
 4. Run `python ban.py`.
